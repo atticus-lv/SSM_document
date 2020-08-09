@@ -14,13 +14,13 @@ title: SSM document
 2. 在qq群中反馈错误或者是提出功能要求
 3. Blender版本需要在2.83或以上，
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+> &nbsp;
 
 ### 功能模块
 
 SSM 工具主要由三部分功能组成，分别是移动物体模块，相机模块和附加功能模块
 
-####  移动模块
+#### 移动模块
 
 用于操纵场景中物体位置，旋转，缩放以及对齐的工具集
 
