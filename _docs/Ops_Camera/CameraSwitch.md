@@ -19,8 +19,18 @@ order: 3
 
 ![](/uploads/switch1.gif){: width="2400" height="1350"}
 
-> 模型：&nbsp;[Lucile Gonzalez](https://sketchfab.com/lucilegonzalez)
+> 纹理模型：&nbsp;[Lucile Gonzalez](https://sketchfab.com/lucilegonzalez)&nbsp;
+
+#### &nbsp;
 
 #### 相机面板跳转
 
 根据相机所在的父集合进行归类展示，点击即可进行跳转
+
+> 相机所在集合为最近的父集合<br>跳转面板中，白相机代表当前的场景相机，描边相机代表其他相机
+
+![](/uploads/微信截图-20200809184620.png){: width="800" height="419"}
+
+> 跳转相机会读取相机的独立属性（图示为分辨率读取）
+
+![](/uploads/switch2.gif){: width="2400" height="1350"}
