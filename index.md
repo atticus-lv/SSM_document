@@ -9,7 +9,7 @@ title: Smart Scene Manager
 相比于其他更加强大或者专一的插件，SSM本身的定位更加融合，他可以以一种优雅的方式，让使用者更加关注设计过程本身，而非沉浸在各种快捷键操作的衔接当中。
 
 > 可以在[这里](https://github.com/atticus-lv/Smart-Scene-Manager_Free)获取免费的版本，在UI和操作方式上会有比较大的差距
->
+
 #### About
 
 1. 可以在淘宝上，Gumroad，或BM上进行购买，持续更新
