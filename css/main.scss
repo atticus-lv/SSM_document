@@ -8,10 +8,10 @@ $body-background-color: #a5b6b9;
 
 $content-max-width: 800px;
 $content-color: #dcdcdc;
-$content-background-color: #1e1e1e;
+$content-background-color: #252525;
 
-$brand-colour: #ff4e35;
-$brand-colour-light: mix($brand-colour, $content-background-color, 10%);
+$brand-colour: #681b1b;
+$brand-colour-light: mix(rgba(250, 0, 0, 0.88), $content-background-color, 10%);
 
 $nav-header-background-color: $brand-colour;
 $nav-header-height: 60px;

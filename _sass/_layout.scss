@@ -98,7 +98,7 @@ header {
 		height: $nav-header-height;
 		box-sizing: border-box;
 		background-color: $brand-colour;
-		color: #c5c5c5;
+		color: #ffffff;
 		margin: 0;
 		font-size: 1.7rem;
 		line-height: 0.8;
@@ -362,6 +362,7 @@ h4 svg {
 
 
 #search-input {
+	background-color: #262626 ;
 	-webkit-appearance: none;
 	display: block;
 	margin: 0;
@@ -377,7 +378,7 @@ h4 svg {
 
 	&:focus {
 		outline: none;
-		border-left-color: $brand-colour;
+		border-left-color: #374eff;
 	}
 }
 
