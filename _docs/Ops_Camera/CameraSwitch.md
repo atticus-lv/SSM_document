@@ -1,5 +1,5 @@
 ---
-title: Jump to-相机跳转面板
+title: 相机跳转面板
 category: Camera
 order: 3
 ---

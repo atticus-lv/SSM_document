@@ -1,5 +1,5 @@
 ---
-title: Track-朝向
+title: 朝向
 category: Move
 order: 1
 ---

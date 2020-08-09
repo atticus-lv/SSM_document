@@ -1,5 +1,5 @@
 ---
-title: Pick Focus-实时对焦捕捉
+title: 实时对焦捕捉
 category: Camera
 order: 4
 ---

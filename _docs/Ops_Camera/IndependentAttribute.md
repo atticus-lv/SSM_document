@@ -1,5 +1,5 @@
 ---
-title: Independent Attribute-独立的相机属性
+title: 独立相机属性
 category: Camera
 order: 1
 ---

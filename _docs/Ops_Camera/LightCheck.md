@@ -1,5 +1,5 @@
 ---
-title: LightCheck-灯光检查
+title: 灯光检查
 category: Camera
 order: 6
 ---

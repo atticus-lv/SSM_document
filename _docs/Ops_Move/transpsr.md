@@ -1,5 +1,5 @@
 ---
-title: TransPSR-位置转移
+title: 位置转移
 category: Move
 order: 2
 ---

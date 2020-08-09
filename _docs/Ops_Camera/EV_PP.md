@@ -1,5 +1,5 @@
 ---
-title: EV & PP-曝光与相机透明度
+title: 曝光与相机透明度
 category: Camera
 order: 5
 ---

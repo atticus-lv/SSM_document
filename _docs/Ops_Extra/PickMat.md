@@ -1,5 +1,5 @@
 ---
-title: Pick Mat-动态材质拾取
+title: 动态材质拾取
 category: Extra
 order: 1
 ---

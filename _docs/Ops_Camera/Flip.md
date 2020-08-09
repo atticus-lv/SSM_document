@@ -1,5 +1,5 @@
 ---
-title: Flip-画面翻转
+title: 画面翻转
 category: Camera
 order: 6
 ---
