@@ -15,9 +15,9 @@ order: 2
 1. shift a 菜单，
 2. 物体模式下 *object mode* **F**
 
-![](/uploads/addcam.gif){: width="2400" height="1350"}
+![addcam](../../uploads/addcam.gif)
 
-#### &nbsp;
+
 
 #### 重做面板 Redo Panel
 
@@ -28,9 +28,9 @@ order: 2
 
 > 下图操作：按住**ctrl**添加正交相机后，使用**重做面板**调整相机的常规属性
 
-![](/uploads/addcam2.gif){: width="2400" height="1350"}
+![addcam2](../../uploads/addcam2.gif)
 
-#### &nbsp;
+
 
 #### 继承属性 Inherite attribute
 
@@ -41,7 +41,7 @@ order: 2
 >
 > 随后在其他视图添加经调整后，**同样属性**的相机
 
-![](/uploads/addcam3.gif){: width="2400" height="1350"}
+![](../../uploads/addcam3.gif)
 
 &nbsp;
 
