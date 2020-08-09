@@ -17,6 +17,8 @@ order: 2
 
 ![](/uploads/addcam.gif){: width="2400" height="1350"}
 
+#### &nbsp;
+
 #### 重做面板 Redo Panel
 
 重做面板可以
@@ -28,6 +30,8 @@ order: 2
 
 ![](/uploads/addcam2.gif){: width="2400" height="1350"}
 
+#### &nbsp;
+
 #### 继承属性 Inherite attribute
 
 继承**最后添加的相机**的焦距等重做面板上具有的属性 *不包括独立属性*
@@ -38,3 +42,9 @@ order: 2
 > 随后在其他视图添加经调整后，**同样属性**的相机
 
 ![](/uploads/addcam3.gif){: width="2400" height="1350"}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
