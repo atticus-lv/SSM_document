@@ -1,10 +1,10 @@
 ---
-title: Documents
+title:
 category: Media
 order: 3
 ---
 
-Share documents with your friends! Send work or school projects from your computer or phone.
+用于精确地朝向物体，亦可以当作常规的约束来添加使用
 
 To share a document:
 
