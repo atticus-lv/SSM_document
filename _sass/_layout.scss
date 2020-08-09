@@ -253,7 +253,7 @@ nav > ul {
 	&.current > a,
 	> a:active,
 	> a:hover {
-		color: #111;
+		color: #e1e1e1;
 	}
 
 	&.top-level > a {
@@ -406,7 +406,7 @@ h4 svg {
 
 	&.major {
 		background: $brand-colour;
-		color: #fff;
+		color: #c5c5c5;
 	}
 }
 
