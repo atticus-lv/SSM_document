@@ -14,4 +14,4 @@ To share a document:
 
 > Changes made to documents after sending are not saved back, you'll have to get contacts to send you updated versions.
 
-![](//placehold.it/800x600)
+![](//placehold.it/1400x900)

@@ -15,4 +15,4 @@ To sync your contacts:
 3. Authorise ChatApp permissions
 4. Select some or all of your contacts
 
-![](//placehold.it/800x600)
+![](//placehold.it/1400x900)

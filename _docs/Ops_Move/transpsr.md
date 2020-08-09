@@ -14,4 +14,4 @@ To share a video:
 
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
-![](//placehold.it/800x600)
+![](//placehold.it/1280x720)
