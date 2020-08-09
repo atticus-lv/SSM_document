@@ -1,5 +1,5 @@
 ---
-title: About SSM
+title: Smart Scene Manager
 ---
 
 **SSM工具** 是一款 用于快速管理场景的blender插件
@@ -8,17 +8,14 @@ title: About SSM
 
 > 可以在[这里](https://github.com/atticus-lv/Smart-Scene-Manager_Free)获取免费的版本，在UI和操作方式上会有比较大的差距
 
-### 关于本插件
+### About 
 
-1. 可以在淘宝上，Gumroad，或者BM上进行购买，持续更新
+1. 可以在淘宝上，Gumroad，或BM上进行购买，持续更新
 2. 在qq群中反馈错误或者是提出功能要求
-3. Blender版本需要在2.83或以上，
+3. Blender版本需要在2.83或以上
 
-> &nbsp;
-
-### 功能模块
-
-SSM 工具主要由三部分功能组成，分别是移动物体模块，相机模块和附加功能模块
+### Feature
+> SSM 工具主要由三部分功能组成，分别是移动物体模块，相机模块和附加功能模块
 
 #### 移动模块
 

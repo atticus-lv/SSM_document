@@ -6,13 +6,8 @@ order: 4
 
 配合视窗降噪，可以在不连续点选焦点的情况下获得最佳的景深观感
 
-> 可以选择生成对焦点
+> 适用于eevee以及cycles
 
-To sync your contacts:
+![focus1](../../uploads/focus1.gif)
 
-1. Open your *User Settings* on your phone app
-2. Select the **Sync Contacts** button
-3. Authorise ChatApp permissions
-4. Select some or all of your contacts
-
-![](//placehold.it/1400x900)
+#### 生成对焦点
