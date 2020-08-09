@@ -4,12 +4,10 @@ category: Get Start
 order: 1
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
+#### 基本信息
 
-To install ChatApp on your device:
+插件版本：0.15<br>版本要求：2.83或更高(2.83以下版本会出现菜单丢失的问题)<br>安装方式：直接在偏好设置中点击安装，选中压缩包即可<br>中文支持：大部分支持
 
-1. Open the Google Play Store
-2. Search for ChatApp
-3. Select **Install**
+#### 偏好设置
 
-![](//placehold.it/800x600)
+![](/uploads/image-20200809164911256.png){: width="800" height="663"}
