@@ -1,10 +1,10 @@
 ---
-title: Add View Cam-视角相机添加
+title: 添加视角相机
 category: Camera
 order: 2
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list\!
 
 > Signing up with Facebook automatically starts syncing contacts.
 
