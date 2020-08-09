@@ -1,38 +1,33 @@
 ---
-title: Welcome
+title: SSM document
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+**SSM工具** 是一款 用于快速管理场景的blender插件
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+相比于其他更加强大或者专一的插件，SSM本身的定位更加融合，他可以以一种优雅的方式，让使用者更加关注设计过程本身，而非沉浸在各种快捷键操作的衔接当中。
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> 可以在[这里](https://github.com/atticus-lv/Smart-Scene-Manager_Free)获取免费的版本，在UI和操作方式上会有比较大的差距
 
-### Getting Started
+### 关于本插件
 
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+1. 可以在淘宝上，Gumroad，或者BM上进行购买，持续更新
+2. 在qq群中反馈错误或者是提出功能要求
+3. Blender版本需要在2.83或以上，
 
 > Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
 
-### Features
+### 功能模块
 
-Explore more of ChatApp by reading about our features:
+SSM 工具主要由三部分功能组成，分别是移动物体模块，相机模块和附加功能模块
 
-#### Media
+####  移动模块
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+用于操纵场景中物体位置，旋转，缩放以及对齐的工具集
 
-#### Contact Syncing
+#### 相机模块
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+用于生成相机，快速修改相机属性和检查画面的工具集，具有独立属性
 
-#### Devices
+#### 其他模块
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+包括材质拾取工具和快速导出工具
