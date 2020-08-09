@@ -1,10 +1,10 @@
 ---
-title: Phone
-category: Contact Syncing
-order: 2
+title: Independent Attribute-独立的相机属性
+category: Camera
+order: 1
 ---
 
-Sync your phone contacts with ChatApp. ChatApp saves your phone contacts and adds anyone with an email address to your contact list!
+每个相机具有独立的输出分辨率，曝光值，在使用插件中的跳转功能时会自动读取属性
 
 > Syncing contacts with your phone restores any previously synced contacts.
 

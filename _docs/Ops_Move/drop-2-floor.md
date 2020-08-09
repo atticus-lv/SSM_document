@@ -1,6 +1,6 @@
 ---
 title: D2F-对齐地面
-category: Media
+category: Move
 order: 2
 ---
 

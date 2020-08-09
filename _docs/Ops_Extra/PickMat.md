@@ -1,7 +1,7 @@
 ---
-title: Android
-category: Devices
-order: 2
+title: Pick Mat-动态材质拾取
+category: Extra
+order: 1
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.

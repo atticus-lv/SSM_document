@@ -1,6 +1,6 @@
 ---
 title: TransPSR-位置转移
-category: Media
+category: Move
 order: 2
 ---
 
