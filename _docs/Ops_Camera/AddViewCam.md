@@ -4,7 +4,7 @@ category: Camera
 order: 2
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list\!
+直接添加到视图视角，拥有重做面板，可以快速调整为正交相机，继承上一相机属性等
 
 > Signing up with Facebook automatically starts syncing contacts.
 
