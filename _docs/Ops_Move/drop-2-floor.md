@@ -1,10 +1,10 @@
 ---
-title: Images
+title: D2F-对齐地面
 category: Media
-order: 1
+order: 2
 ---
 
-Share images with your friends! Send photos and pictures from your computer, phone or camera.
+Share images with your friends\! Send photos and pictures from your computer, phone or camera.
 
 > Images are stored until you choose to remove them.
 
