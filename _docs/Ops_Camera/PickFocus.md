@@ -11,3 +11,8 @@ order: 4
 ![focus1](../../uploads/focus1.gif)
 
 #### 生成对焦点
+
+> 于确认时按 Shift: 生成对焦点
+
+![focus2](../../uploads/focus2.gif)
+

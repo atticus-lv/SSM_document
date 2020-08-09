@@ -11,7 +11,7 @@ order: 3
 >
 > 红色：视图选择跳转；蓝色：相机跳转面板
 
-![](../../uploads/image-20200809183755136.png){: width="772" height="500"}
+![](../../uploads/jumpmenu.png){: width="772" height="500"}
 
 #### 视图选择跳转
 
