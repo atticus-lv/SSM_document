@@ -4,7 +4,7 @@ category: Media
 order: 2
 ---
 
-Share video to your friends! Send videos from your computer, phone, camera or YouTube.
+用于快速对齐位置，在小巧的PSR(位置缩放旋转)下拉菜单下，可以随心所欲地调整转移的属性
 
 To share a video:
 
