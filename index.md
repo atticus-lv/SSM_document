@@ -1,5 +1,5 @@
 ---
-title: SSM document
+title: About SSM
 ---
 
 **SSM工具** 是一款 用于快速管理场景的blender插件
