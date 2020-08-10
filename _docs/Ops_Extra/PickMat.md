@@ -4,8 +4,6 @@ category: Extra
 order: 1
 ---
 
-To install ChatApp on your device:
-
 这是一种非常高效的，游戏化的材质管理方式，材质拾取从未如此轻松
 
 点击Pick Mat进入动态材质拾取模式

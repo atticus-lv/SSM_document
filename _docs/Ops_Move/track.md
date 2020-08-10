@@ -1,11 +1,11 @@
 ---
 title: 朝向
 category: Move
-order: 1
+order: 2
 ---
 
 用于精确地朝向物体，亦可以当作常规的约束来添加使用
 
-> Images 
+> 选择项朝向激活项，shift点击添加**指向约束**
 
-## 施工中
+![track](../../uploads/track.gif)
