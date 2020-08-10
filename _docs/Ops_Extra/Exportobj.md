@@ -4,8 +4,6 @@ category: Extra
 order: 2
 ---
 
-Use ChatApp on most of your Apple devices. Only the latest versions are supported.
-
 用于快速导出场景中的物体，可用时间，日期，活动项名字，选择数量来定义导出物体名字
 
 #### 偏好设置
