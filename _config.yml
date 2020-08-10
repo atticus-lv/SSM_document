@@ -2,8 +2,8 @@
 # Site
 
 title: SSM_Document
-url: "https://atticus-lv.gitee.io/ssm_document"
-baseurl: /SSM_document/
+url: "https://atticus-lv.github.io/"
+baseurl:
 google_analytics_key:
 show_full_navigation: true
 
