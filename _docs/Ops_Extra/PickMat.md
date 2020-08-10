@@ -14,10 +14,15 @@ To install ChatApp on your device:
 
 *若无材质，则显示为None*
 
+#### 拾取，应用，删除
+
 > 按1，2，3填充相应材质槽
 >
 > Q,W,E 在鼠标所在位置应用相应槽内材质，x移除所在区域材质链接
 >
 > 左键确认（节点图显示当前材质），右键取消
 
-<video src="../../uploads/pickmat.mp4"></video>
+![pickmat](../../uploads/pickmat.gif)
+
+
+
