@@ -12,7 +12,7 @@ order: 1
 
 > 包括偏好设置，侧栏菜单，饼菜单，工具提示等基本完成汉化
 
-![](../../uploads/image-20200809164911256.png){: width="800" height="663"}
+![preferenceimage](../../uploads/preferenceimage.png)
 
 ##### 菜单
 
