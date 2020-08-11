@@ -1,24 +1,24 @@
 ---
-title: 动态材质拾取
+title: Dynamic Mat Picker
 category: Extra
 order: 1
 ---
 
-这是一种非常高效的，游戏化的材质管理方式，材质拾取从未如此轻松
+This is a very efficient, game like material management, material picking has never been so easy
 
-点击Pick Mat进入动态材质拾取模式
+Click **Pick Mat** to enter the dynamic material picking mode
 
-该模式下有三个材质拾取槽于，一个当前材质槽，1号槽默认为上一选中材质，显示槽位将显示鼠标所在区域的材质 
+In this mode, there are **three material picking slots**. One is the current material slot. Slot 1 is the last selected material by default. The display slot will display the material in the mouse position
 
 *若无材质，则显示为None*
 
-#### 拾取，应用，删除
+#### Pick, Apply, Delete
 
-> 按1，2，3填充相应材质槽
+> Press 1,2,3 to fill the 1st,2nd,3th Mat slot
 >
-> Q,W,E 在鼠标所在位置应用相应槽内材质，x移除所在区域材质链接
+> Press Q,W,E to apply  1st,2nd,3th Mat slot to the mouse position (replace the current material or creat a new material slot and fill it)
 >
-> 左键确认（节点图显示当前材质），右键取消
+> Left click to confirm (node graph shows current material), right click to cancel
 
 ![pickmat](../../uploads/pickmat.gif)
 
