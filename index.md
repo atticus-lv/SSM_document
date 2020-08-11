@@ -1,38 +1,39 @@
 ---
-title: Smart Scene Manager 中文手册
+title: Smart Scene Manager 
 ---
 
 **![page](images/page.jpg)**
 
 
 
-> **SSM工具** 是一款 用于快速管理场景的blender插件
+> **SSM** Is a blender addon for manage scene fast
 
-相比于其他更加强大或者专一的插件，SSM本身的定位更加融合，他可以以一种优雅的方式，让使用者更加关注设计过程本身，而非沉浸在各种快捷键操作的衔接当中。
+Compared with other more powerful or specific addons, SSM itself has a more integrated positioning. It can make users pay more attention to the design process itself in an elegant way, rather than immerse in the convergence of various shortcut key operations.
 
-可以在[这里](https://github.com/atticus-lv/Smart-Scene-Manager_Free)获取免费的版本，但和付费版并不完全相同
+It can be in [here](https://github.com/atticus-lv/Smart-Scene-Manager_Free) , but not exactly the same as the paid version
 
-### 手册的使用方法
+### How to use the manual
 
-1. 点击左侧面板查看不同功能，建议从快速上手看起
-2. 所有动图都是2k分辨率的高清动图，可右键至新标签页观看
-3. 如需购买本插件，可于淘宝(只剩一瓶辣椒酱)，Gumroad，Blendermarket 上购买，qq群持续维护和更新
+1. Click on the left panel to view different functions. It is recommended to start from the quick start
+2. All gif pictures are high-definition moving pictures with 2K resolution, which  recommend to be viewed by right clicking on the new tab
+3. If you need to buy this plug-in, you can buy it on Gumroad, blendermarket, and it updated for free
 
 
 
-### 功能简介
+### Features
 
-> SSM 工具主要由三部分功能组成，分别是移动物体模块，相机模块和附加功能模块
+> SSM tool is mainly composed of three parts: Move , Camera , Extra 
 
-##### 移动模块
+##### Move
 
-用于操纵场景中物体位置，旋转，缩放以及对齐的工具集
+Tool set for manipulating the position, rotation, scaling, and alignment of objects in the scene
 
-##### 相机模块
+##### Camera
 
-用于生成相机，快速修改相机属性和检查画面的工具集
-同时，SSM还为每个相机具有独立的输出分辨率，曝光值，在使用插件的功能时会自动读取属性
+Tool set for generating cameras, quickly modifying camera properties, and checking view image
 
-##### 附加功能模块
+At the same time, SSM also has independent output resolution and exposure value for each camera, which will automatically read the attributes when using the addon function
 
-包括材质拾取工具和快速导出工具
+##### Extra
+
+Includes material picking tools and quick export tools

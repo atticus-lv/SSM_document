@@ -1,36 +1,34 @@
 ---
-title: 快速上手
+title: Get Start
 category: Get Start
 order: 1
 ---
 
-#### 基本信息
+#### Addon Infomation
 
-插件版本：0.15<br>版本要求：2.83或更高(2.83以下版本会出现菜单丢失的问题)<br>安装方式：直接在偏好设置中点击安装，选中压缩包即可
+Addon version：0.15<br>Blender version required：2.83 + <br>Install：just install the zip file in preference windows
 
-#### 偏好设置
-
-> 包括偏好设置，侧栏菜单，饼菜单，工具提示等基本完成汉化
+#### Preference
 
 ![preferenceimage](../../uploads/preferenceimage.png)
 
-##### 菜单
+##### Menu
 
-* 侧边栏菜单面板，将会在**编辑**选项卡中出现，但也可以填入自己想要的位置 *默认关闭![](../../uploads/sidemenuimage.png){: width="800" height="543"}*
+* The sidebar menu panel will appear in the **edit** tab, but you can also fill in the position you want*it is closed by default*![](../../uploads/sidemenuimage.png){: width="800" height="543"}*
 
-* 物体信息面板将在**选中物体**的时候开启，显示常用选项 *(网格，细分修改器，相机，曲线，灯光 )*
-* 饼菜单默认会开启三个面板,可以在偏好设置关闭相应面板 ![](../../uploads/translation.png){: width="800" height="493"}
+* The object information panel shows when **select object** and display the common options *(mesh, subdivision modifier, camera, curve, light)*
+* Pie Menu![](../../uploads/translation.png){: width="800" height="493"}
 
-  > 若按钮呈灰色，则说明未满足使用条件，尝试选中物体或者添加对应类型物体
+  > If the button is gray, it indicates that the use conditions are not met. Try to select the object or add the corresponding type of object
   >
   >
-  > 箭头指向为一键翻译功能，现为中文模式
-* 材质拾取弹窗（见**功能**）
+  > arrow：translate 
+* Pop up window for material picking 
 
-##### 键位映射
+##### Keymaps
 
-* **F** SSM饼菜单（物体模式下）![](../../uploads/keymaps.png){: width="688" height="199"}
-* **A** 选择菜单（编辑模式下）![](../../uploads/selectmenu.png){: width="800" height="503"}
+* **F** SSM pie menu（Object mode）![](../../uploads/keymaps.png){: width="688" height="199"}
+* **A** select mode（edit mode）![](../../uploads/selectmenu.png){: width="800" height="503"}
 
 &nbsp;
 
