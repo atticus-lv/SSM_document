@@ -16,7 +16,7 @@ It can be in [here](https://github.com/atticus-lv/Smart-Scene-Manager_Free) , bu
 
 1. Click on the left panel to view different functions. It is recommended to start from the quick start
 2. All gif pictures are high-definition moving pictures with 2K resolution, which  recommend to be viewed by right clicking on the new tab
-3. If you need to buy this plug-in, you can buy it on Gumroad, blendermarket, and it updated for free
+3. If you need to buy this plug-in, you can buy it on [Gumroad](https://gumroad.com/l/smartscenemanager), blendermarket, and it will update for free
 
 
 
