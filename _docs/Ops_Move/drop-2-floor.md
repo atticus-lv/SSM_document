@@ -1,56 +1,56 @@
 ---
-title: 对齐地面
+title: Drop to floor
 category: Move
 order: 3
 ---
 
-多种的对齐地面（激活项）方式，配合位置转移功能能有较大的作用
+A variety of ways to align the ground (or active item), with the position **TransPSR** can have a greater role
 
-### 对齐原则
+### Alignment principle
 
-> 非网格物体对齐点：自己的原点 
+> non mesh object alignment: its origin
 >
-> 网格物体对齐点：世界z轴向上的最高点或最低点 
+> mesh object alignment: the highest or lowest point in the world Z axis
 
 ![d2f0](../../uploads/d2f0.gif)
 
 
 
-#### 对齐1：全部的最低点 > 世界地面
+#### Alignment 1: all (lowest) > World floor
 
-大多数时候会使用到的方法，可以保持所选物体**结构的完整性**
+Most of the time, the method will be used to maintain the integrity of the selected objects' **structure**
 
-> 选择单个物体时候，将以单个物体对齐点为最低点
+> When selecting a single object, the alignment point of the single object is taken as the lowest point
 >
-> 选择多个物体时候，将以多个物体的里最低的对齐点为最低点 （**网格物体优先**）
+> When selecting multiple objects, the lowest alignment point of multiple objects will be taken as the lowest point (**mesh object first**)
 
 ![d2f1](../../uploads/d2f1.gif)
 
 
 
-#### 对齐2：全部 > 世界地面
+#### Alignment 2: all > World floor
 
-> 按住 Ctrl 点击对齐按钮
+> Hold down **Ctrl** and click the D2F button
 
 ![d2f2](../../uploads/d2f2.gif)
 
 
 
-#### 对齐3：全部 > 激活项
+#### Alignment 3: all > active
 
-> 按住 Shift 点击对齐按钮
+> Hold down shift and click the D2f button
 
 ![d2f3](../../uploads/d2f3.gif)
 
 
 
-#### 对齐设置：全部（排除非网格）
+#### Alignment settings: all (excluding non MESH)
 
-勾选上之后，对非网格物体的移动不起作用，但仍可以作为对齐的目标
+If checked, it has no effect on the movement of non-mesh objects, but it can still be used as the alignment target
 
 ![d2f](../../uploads/d2f.png)
 
-> 可以和以上三种方式配合使用
+> It can be used in combination with the above three ways
 
 ![d2f5](../../uploads/d2f5.gif)
 

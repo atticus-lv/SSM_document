@@ -1,11 +1,11 @@
 ---
-title: 朝向
+title: Track
 category: Move
 order: 2
 ---
 
-用于精确地朝向物体，亦可以当作常规的约束来添加使用
+Used to point precisely at an object .It can also be used as a regular constraint
 
-> 选择项朝向激活项，shift点击添加**指向约束**
+> Selected items toward the active item, press shift and click : Add **Look at  constraint**
 
 ![track](../../uploads/track.gif)

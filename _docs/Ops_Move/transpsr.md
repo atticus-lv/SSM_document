@@ -1,43 +1,43 @@
 ---
-title: 位置转移
+title: TransPSR
 category: Move
 order: 1
 ---
 
-用于快速对齐位置，在小巧的PSR(位置缩放旋转)下拉菜单下，可以随心所欲地调整转移的属性
+For quick alignment of positions, you can adjust the transfer properties as you like under the compact PSR drop-down menu (position scaling and rotation) 
 
-> 从左到右分别代表：位置，缩放，旋转
+> From left to right represent: position, scale, rotation
 
 ![transpsr1](../../uploads/transpsr1.png)
 
-#### 示例1
+#### Example 1
 
-图中线框正方体为**激活项**，场景中有且只有一个
+In the figure, the cube shows in wireframe is the **active item **, which is the only one in the scene
 
-蓝色正方体为**选择项**，场景中可有多个，现缩放＜1，位置，旋转都不为0
+cube with blue outline is the**selected**，which can be more than one in the scene ，Now scale < 1, position, rotation are not 0
 
 ![transpsr2](../../uploads/transpsr2.png)
 
-> 现使用以下设置(位置，旋转)，点击**转移按钮**
+> Now use the following settings (position, rotation), and click the **transfer button**
 
 ![transpsr3](../../uploads/transpsr3.png)
 
-> 转移情况
+> Transfer situation
 
 ![transpsr4](../../uploads/transpsr4.png)
 
 
 
-#### 示例2
+#### Example 2
 
-现激活项为小正方体，选择项为大正方体
+now the small cube is active, and the bigger one is selected
 
 ![transpsr5](../../uploads/transpsr5.png)
 
-> 现使用以下设置(旋转)，点击**转移按钮**
+> Now use the following settings (rotation), and click the **transfer button**
 
 ![transpsr7](../../uploads/transpsr7.png)
 
-> 转移情况
+> Transfer situation
 
 ![transpsr6](../../uploads/transpsr6.png)

@@ -10,7 +10,7 @@ Click **Pick Mat** to enter the dynamic material picking mode
 
 In this mode, there are **three material picking slots**. One is the current material slot. Slot 1 is the last selected material by default. The display slot will display the material in the mouse position
 
-*若无材质，则显示为None*
+*if no material ,diaplay None*
 
 #### Pick, Apply, Delete
 
