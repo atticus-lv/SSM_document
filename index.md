@@ -22,4 +22,4 @@ title: Smart Scene Manager 中文手册
 
 ### 0.17 简介 
 
-![画板 1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%201.jpg)![画板 3](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%203.jpg)![画板 2](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%202.jpg)![画板 4](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%204.jpg)![画板 5](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%205.jpg)![画板 5_](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%205%20%E6%8B%B7%E8%B4%9D.jpg)![画板 6](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%206.jpg)
+![画板 1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%201.jpg)![画板 3](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%203.jpg)![画板 2](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%202.jpg)![画板 4](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%204.jpg)![画板 5](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%205.jpg)![画板 5_](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%205_.jpg)![画板 6](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/%E7%94%BB%E6%9D%BF%206.jpg)
