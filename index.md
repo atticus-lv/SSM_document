@@ -20,11 +20,6 @@ title: Smart Scene Manager 中文手册
 
 
 
-### 0.17 简介
+### 0.17 版本介绍
+
 ![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/1.jpg)
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/2.jpg)
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/3.jpg)
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/4.jpg)
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/5.jpg)
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/6.jpg)
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/7.jpg)
