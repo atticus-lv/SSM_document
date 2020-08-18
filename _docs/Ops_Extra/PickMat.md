@@ -8,7 +8,7 @@ order: 2
 
 点击Pick Mat进入动态材质拾取模式
 
-同时的List Manager 也会变成 材质拾取模式
+同时的List Manager 也会变成 材质拾取模式 的列表
 
 
 
@@ -20,7 +20,4 @@ order: 2
 >
 > 右键完成或者取消（若勾选偏好中的弹窗则在结束后弹窗）
 
-![pickmat](../../uploads/pickmat.gif)
-
-
-
+<video src="../../uploads/mp4/pickmode.mp4"></video>
