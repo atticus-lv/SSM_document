@@ -1,7 +1,7 @@
 ---
 title: 纹理管理
-category: Image Manager
-order: 1
+category: Extra
+order: 3
 ---
 
 

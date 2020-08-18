@@ -1,7 +1,7 @@
 ---
 title: 灯组
-category: Light Group
-order: 1
+category: Extra
+order: 4
 ---
 
 
