@@ -1,7 +1,7 @@
 ---
 title: 纹理管理
-category: Extra
-order: 3
+category: Manager
+order: 1
 ---
 
 用于管理和删除场景中使用的纹理/图像/视频

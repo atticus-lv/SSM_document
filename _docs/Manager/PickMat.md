@@ -1,6 +1,6 @@
 ---
 title: 动态材质拾取
-category: Extra
+category: Manager
 order: 2
 ---
 

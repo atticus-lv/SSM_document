@@ -1,7 +1,7 @@
 ---
 title: 材质管理
-category: Extra
-order: 1
+category: Manager
+order: 2
 ---
 
 用于管理当前场景中材质的列表 (包含Gp材质)

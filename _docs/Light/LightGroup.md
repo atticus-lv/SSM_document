@@ -1,7 +1,7 @@
 ---
 title: 灯组
-category: Extra
-order: 4
+category: Light
+order: 2
 ---
 
 适用于灯光的独立属性，可以用于将灯光编组进行组solo，组内solo
