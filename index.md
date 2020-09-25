@@ -1,5 +1,5 @@
 ---
-title: Smart Scene Manager 中文手册
+title: Smart Scene Manager 手册 
 ---
 
 **![page](images/page.jpg)**
@@ -20,6 +20,6 @@ title: Smart Scene Manager 中文手册
 
 
 
-### 0.17 版本介绍
+### 0.195 版本介绍
 
-![1](uploads/%E8%AF%A6%E6%83%85%E9%A1%B5/1.jpg)
+
