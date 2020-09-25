@@ -1,23 +1,25 @@
 ---
-title: 队列渲染 - 任务模式
+title: RenderStack - Task 
 category: RenderStack
 order: 2
 ---
 
-自定义渲染队列任务，渲染标记任务
-+ 目前支持多任务静帧/动画混合渲染
-+ 自定义渲染引擎（目前支持eevee 和 cycles），采样，视图层，输出格式，相机（包含独立属性），灯光工作室等
+Custom render Queue task, render mark task
 
-**自动更新按钮**
++ At present, multi task still frame / animation hybrid rendering is supported
 
-点击后，在每次更改任务参数时，都会实时刷新渲染画面，从而能轻松观察到最终结果
++ Custom rendering engine (currently supports eevee and cycles), sampling, view layer, output format, camera (including independent attributes), light studio, etc
+
+**Auto Update Button**
+
+After enable, the rendering screen will be refreshed in real time every time the task parameters are changed, so that the final results can be easily observed
 
 ![rendertask1](../../uploads/rendertask1.gif)
 
-#### 关于输出
+#### About Output
 
-若未开启自定义输出路径，则默认输出要blend文件相对目录下的以${文件名}_render命名的文件夹下（**并以task名字作为子文件夹名字**）
+If the custom output path is not enabled, the default output is to use ${file name} in the relative directory of blend file_ Under the folder named "render" (**and take the name of task as the name of the subfolder**)
 
-允许进行自定义的格式化命名
+Allow custom formatted naming
 
 ![renderstack ouput](../../uploads/renderstack%20ouput.png)

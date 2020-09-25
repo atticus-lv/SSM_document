@@ -1,9 +1,9 @@
 ---
-title: HDR选择器
+title: HDR Selector
 category: Light
 order: 1
 ---
 
-可以遍历预定路径下的所有子文件夹，按文件夹对其内部的hdr进行类型分类，一键加载入世界环境，附带强度和z轴旋转的两个滑块
+It can traverse all the subfolders under the predetermined path, classify the internal HDR according to the folder type, load into the world environment with one key, and two sliders for strength and z-axis rotation
 
-### 施工中
+### WIP

@@ -1,31 +1,31 @@
 ---
-title: 快速导出
+title: QuickExport
 category: Extra
-order: 5
+order: 2
 ---
 
-用于快速导出场景中的物体，可用时间，日期，活动项名字，选择数量来定义导出物体名字
+It is used to quickly export objects in the scene. The name of exported objects can be defined by time, date, active item name and selection quantity
 
-#### 偏好设置
+#### Preference
 
-输出路径默认是 **当前窗口使用的blend文件所在的位置** *blend文件需要保存*
+The output path is **the location of the blend file used by the current window by default ** *the blend file needs to be saved*
 
-> 可以通过勾上文件夹图标后的 **√** 来使用自定义路径，点击文件夹图标来选择路径
+> You can use the custom path by checking the **√** after the folder icon, then click the folder icon to select the path
 
-![export1](../../uploads/export1.png)
+![export3](../../uploads/export3.png)
 
 
 
-#### 默认导出情况
+#### Default export situation
 
-以 `pick.blend` 文件为例子
+ `pick.blend`  is an example
 
 ![export1](../../uploads/export2.png)
 
-导出的**obj**文件名字为 `pick_0_Sphere_08-10_14_45.obj`  *mtl材质文件信息同理*
+The name of the exported **obj ** file is `pick_0_Sphere_08-10_14_45.Obj` *MTL  file information is the same*
 
-即 `文件名字_选择物体数量_激活项名字_月-日_小时-分钟.格式`
+ name：`filename_count_activename_month-day_hour-min.format`
 
-通过自定义勾选需要的名称，可以输出需要的文件名字
+You can output the required file name by checking the required name by user
 
->  使用自定义路径则在路径下创建 `文件名字_export` 的文件夹
+>  If the custom path is used, the `filename_export`  will be created under the path folder

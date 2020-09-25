@@ -1,18 +1,19 @@
 ---
-title: 队列渲染 - 简单模式
+title: RenderStack - Simple 
 category: RenderStack
 order: 1
 ---
 
-基于renderburst基础上进行开发的模块
-可以渲染场景中所有或选中镜头（读取独立的分辨率，曝光）
+Module based on renderburst
 
-> 以当前的渲染设置进行单帧渲染
+Can render all or selected shots in the scene (read independent resolution, exposure)
+
+> Single frame rendering with current render settings
 
 ![renderstack_simple](../../uploads/renderstack_simple.gif)
 
-在偏好设置中可以设置自定义输出路径和输出格式化名字
+In preferences, you can set custom output path and output format name
 
-#### 关于输出
+#### About Output
 
-若未开启自定义输出路径，则默认输出要blend文件相对目录下的以${文件名}_render命名的文件夹下
+If the custom output path is not enabled, the default output is to use ${file name} in the relative directory of blend file_ Under the folder named "render"

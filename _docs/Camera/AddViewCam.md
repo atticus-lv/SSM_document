@@ -1,45 +1,45 @@
 ---
-title: 添加视角相机
+title:  Add View Camera
 category: Camera
 order: 2
 ---
 
-直接添加到视图视角，拥有重做面板，可以快速调整为正交相机，继承上一相机属性等
+Add camera directly to view angle, with a redo panel which can quickly adjust to ortho camera, inherit previous camera properties, etc
 
-> 快捷键：Ctrl：正交相机， Shift：继承
+> Shortcuts- Ctrl：Ortho cam， Shift：inherit 
 
-#### 新增相机 Add cam
+#### Add view cam
 
-你可以通过以下两个位置来添加相机
+You can add cameras in two places
 
-1. shift a 菜单，
-2. 物体模式下  **F**
+1. shift a menu
+2. Object mode  **"F"**
 
 ![addcam](../../uploads/addcam.gif)
 
 
 
-#### 重做面板 Redo Panel
+#### Redo Panel
 
-重做面板可以
+Redon Panel can
 
-* 设置当前相机的位置，离开相机视角后调整面板，则相机会移动到视角位置
-* 焦距，正交， 正交比例 ，使用名字，
+* Set the position of the current camera, adjust the panel after leaving the camera's view, then the camera will move to the view position.
+* Focal length, ortho, ortho scale, use name
 
-> 下图操作：按住**ctrl**添加正交相机后，使用**重做面板**调整相机的常规属性
+> The following operation: press and hold **Ctrl** to add an ortho camera, and then use the  **redo panel** to adjust the general properties of the camera
 
 ![addcam2](../../uploads/addcam2.gif)
 
 
 
-#### 继承属性 Inherite attribute
+#### Inherite attribute
 
-继承**最后添加的相机**的焦距等重做面板上具有的属性 *不包括独立属性*
+Inherit the focal length of the **camera added last** *and other attributes* on the redo panel, excluding independent attributes
 
-> 下图操作：在整视图添加相机，调整为正交相机并缩小正交比例
+> The following operation: add a camera to the whole view, adjust it to orthogonal camera and reduce the orthogonal scale
 >
 >
-> 随后在其他视图添加经调整后，**同样属性**的相机
+> Then add the adjusted camera with the **same attribute** to other views
 
 ![](../../uploads/addcam3.gif)
 

@@ -1,21 +1,27 @@
 ---
-title: 曝光与相机透明度
+title:  EV and PP
 category: Camera
 order: 5
 ---
 
-动态的曝光，背景透明操作符，可以进行感官画面控制
+Dynamic exposure control, background transparent operator, can control the sensory picture
 
-#### 曝光控制
+#### Exposure control
 
-每个相机都具有独立的曝光属性，使用跳转按钮切换到相机时，可以读取当前相机曝光
+Each camera has its own exposure attribute. When you switch to the camera with the jump button, you can read the current camera exposure
 
-曝光属性仅在**渲染模式**下被读取，
+The exposure attribute is only read in **render mode**
 
-> 当不使用相机时候，**Ctrl**点击，可以**重设场景曝光**
+> When the camera is not in use, click **Ctrl** to **reset the scene exposure**
 >
-> 点击进入曝光控制阶段，向右滑动增加曝光，**Shift**精确控制,左键确认，右键取消 
+> Click to enter the exposure control stage, slide right to increase the exposure, **shift ** precise control, left click to confirm, right click to cancel
 
 ![ev1](../../uploads/ev1.gif)
 
 
+
+#### Border transparency control
+
+> Click to enter the camera frame transparency control, slide right to reduce transparency, left click to confirm, right click to cancel
+
+![pp](../../uploads/pp.gif)

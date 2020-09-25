@@ -1,16 +1,16 @@
 ---
-title: 灯光工作室
+title: Light Studio
 category: Light
 order: 3
 ---
 
-记录场景中的灯组状态，以及世界环境状态，保存为内部数据，可以随时加载和覆写灯组/世界状态，帮助使用者快速检测不同的灯光效果
+Record the state of the light group in the scene, as well as the state of the world environment, and save it as internal data. The light group / world state can be loaded and overridden at any time to help users quickly detect different lighting effects
 
-Tips：0.195版本中，添加了对单个灯光（已经分组）的记录支持
+Tips: 0.195, added recording support for individual lights (grouped)
 
-> 通过实时点击切换不同的灯光工作室
+> Switch between different light studios through one click
 
 ![lightstudio1](../../uploads/lightstudio1.gif)
 
-通过保存按钮，可以保存当前场景中的灯组状态，及世界环境状态至当前槽位
+Through the Save button, you can save the light group status in the current scene and the world environment state to the **current slot**
 

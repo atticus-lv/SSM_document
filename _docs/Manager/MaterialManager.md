@@ -1,15 +1,15 @@
 ---
-title: 材质管理
+title: Material Manage
 category: Manager
 order: 2
 ---
 
-用于管理当前场景中材质的列表 (包含Gp材质)
+List for managing materials in the current scene (including GP materials)
 
-同时可以观察活动材质预览 即节点编辑器的显示材质
+At the same time, you can watch the preview of the active material, that is, the display material of the node editor
 
-> 删除当前为删除选中材质
+> Delete the currently selected material for deletion
 >
-> 使用滤项删除可以删除伪用户材质，或者是删除未使用材质
+> Use filter delete to delete pseudo user materials or unused materials
 
 ![MM](../../uploads/MM.gif)

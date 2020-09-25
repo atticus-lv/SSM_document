@@ -1,42 +1,39 @@
 ---
-title: 动态材质拾取
+title: Dynamic Material Picking
 category: Manager
 order: 2
 ---
 
-这是一种非常高效的，游戏化的材质管理方式，材质拾取从未如此轻松
+This is a very efficient, game based material management, material picking has never been so easy
 
-点击Pick Mat *饼菜单或侧边菜单栏* 进入动态材质拾取模式
+Click pick mat *pie menu or side menu bar* to enter dynamic material picking mode
 
-同时的List Manager 也会变成 **材质拾取模式** 的列表
+At the same time, the list manager will become a list of **material picking modes**
 
 
 
-#### 拾取，切换，清除
+#### Pick, Switch, Clear
 
-> 左键拾取材质 / Q,E 上下切换槽位材质 / D 移除当前槽位 / C 清除所有槽位
->
-> 右键完成或者取消，最后停留位置即为活动项材质，显示于节点编辑器
->
-> （若勾选偏好中的弹窗则在结束后弹窗显示活动项材质）
+>Left click to pick material, Q / E up and down switch slot material / D remove current slot / C clear all slots
+>Right click to finish or cancel. The last stop position is the active item material, which is displayed in the node editor(in mat manage panel)
+>(if the pop-up window in preference is checked, the pop-up window will display the material of the active item after the end)
 
 ![pickmat2](../../uploads/pickmat2.gif)
 
 
 
-#### 应用，删除
+#### Apply, Delete
 
-> A应用当前槽位材质 / X清除当前区域材质
+> press A to apply current slot material / X clear current area material
 >
 
 ![pickmat3](../../uploads/pickmat3.gif)
 
 
 
-#### 非拾取模式下的拾取列表管理
+#### Picking list management in non picking mode
 
-> 可以用小按钮删除列表材质
->增加按钮仅对当前物体活动材质生效
->
+>You can use small buttons to delete list materials
+>The Add button only works on the active material of the current object
 
 ![pickmat1](../../uploads/pickmat1.gif)

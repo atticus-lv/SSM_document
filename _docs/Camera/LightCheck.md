@@ -1,13 +1,13 @@
 ---
-title: 灯光检查
+title: LightCheck
 category: Camera
 order: 6
 ---
 
-用于切换胶片对比度效果，以及检测曝光情况
+Used to switch film contrast looks and detect exposure
 
-> 点击进入检测模式，上下滚动滚轮切换胶片对比度，F 切换 曝光检测 *受胶片效果影响*
+> Click to enter , wheel up and down scroll  switches the contrast looks, **F** switches the exposure detection *is affected by the film effect*
 >
-> 左键确认，右键取消
+> Left click to confirm, right click to cancel
 
 ![look](../../uploads/look.gif)

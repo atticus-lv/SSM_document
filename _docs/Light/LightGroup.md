@@ -1,32 +1,32 @@
 ---
-title: 灯组
+title: Light Group
 category: Light
 order: 2
 ---
 
-适用于灯光的独立属性，可以用于将灯光编组进行组solo，组内solo
+The independent attributes applicable to lights can be used to group lights into group solo and solo in group 
 
-> **0.19**版本中，已经把渲染显示和视窗显示合并
+> In version **0.195 ** , render display and viewport display have been merged to one button
 
-#### 组创建，灯组solo，组内solo
+#### Creat Group ,  solo in group, group solo
 
-有三种创建组的方式：
+There are three ways to create light groups:
 
-+ 选中灯后右键菜单
-+ 在N面板灯光面板中的light group 中创建
-+ 选中灯光，在ssm的物体信息面板的群组中填入组的名字
++ Right click to use the context menu after light selection
++ Create in the light group drop down bar in the N menu light panel
++ Select the light and fill in the group name in the object information panel of SSM
 
-> 点击 S 按钮即可进行灯组solo 或者 组solo，toggle用于关闭或者开启整组灯光
+> Click the s button to carry out group solo or group solo.
+>
+>  Toggle is used to turn off or turn on the whole group of lights
 
 ![LG1](../../uploads/LG1.gif)
 
 
 
-#### 组重命名，组移动，组排除，组删除
+#### Group rename, group move, group exclude, group delete
 
-> 选中灯后，可以通过修改灯属性  *于物体信息面板中*   或**选中后重新创建**来把灯移动到其他组
->
-> 可以使用集合来配合灯组，排除暂且不需要的灯来节省空间
+> After a light is selected, you can move the light to another group by modifying the light attribute  in *the object information panel*  or  recreating  group after selecting it
 >
 
 ![LG2](../../uploads/LG2.gif)
