@@ -12,8 +12,12 @@ order: 2
 
 点击后，在每次更改任务参数时，都会实时刷新渲染画面，从而能轻松观察到最终结果
 
-![rendertask1](img/rendertask1.gif)
+![rendertask1](../../uploads/rendertask1.gif)
 
 #### 关于输出
 
-若未开启自定义输出路径，则默认输出要blend文件相对目录下的以${文件名}_render命名的文件夹下
+若未开启自定义输出路径，则默认输出要blend文件相对目录下的以${文件名}_render命名的文件夹下（**并以task名字作为子文件夹名字**）
+
+允许进行自定义的格式化命名
+
+![renderstack ouput](../../uploads/renderstack%20ouput.png)

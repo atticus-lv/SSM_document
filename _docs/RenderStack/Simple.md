@@ -9,7 +9,7 @@ order: 1
 
 > 以当前的渲染设置进行单帧渲染
 
-![renderstack_simple](img/renderstack_simple.gif)
+![renderstack_simple](../../uploads/renderstack_simple.gif)
 
 在偏好设置中可以设置自定义输出路径和输出格式化名字
 
